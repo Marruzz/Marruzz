@@ -1,28 +1,24 @@
-# 🎮 About Me
 
-## 👤 Name
-**<span style="color:#4CAF50;">Luca</span>**
 
-## 📅 Age
-**<span style="color:#FF5733;">17</span>**
+👤 Hi, I'm **<span style="color:#4CAF50;">Marruzz</span>**, and I'm 📅**<span style="color:#FF5733;">17</span>**
 
-## 🎓 Current Status
+### 🎓 Current Status
 I am currently a student at **<span style="color:#1E90FF;">Itis E. Majorana</span>**, located in Grugliasco.
 
-## 🎯 Interests
+### 🎯 Interests
 - 🎮 **Videogames**
 - 📚 **Reading**
 - 💻 **Programming**
 
-## 🌍 Languages I Speak
+### 🌍 Languages I Speak
 - 🇮🇹 **Italian**
 - 🇬🇧 **English**
 
-## 💻 Programming Languages I Know
+### 💻 Programming Languages I'm currently studying
 - 🖥️ **C#**
 - 🐍 **Python**
 
-## 📱 Reach Me
+### 📱 Reach Me
 You can reach me on Instagram. [📷](#)
 
 
