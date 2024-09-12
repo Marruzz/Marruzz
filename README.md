@@ -1,6 +1,5 @@
 
-
-👤 Hi, I'm **<span style="color:#4CAF50;">Marruzz</span>**, and I'm 📅**<span style="color:#FF5733;">17</span>**
+### 👤 Hi, I'm **<span style="color:#4CAF50;">Marruzz</span>**, and I'm **<span style="color:#FF5733;">17</span>** 📅
 
 ### 🎓 Current Status
 I am currently a student at **<span style="color:#1E90FF;">Itis E. Majorana</span>**, located in Grugliasco.
@@ -14,12 +13,12 @@ I am currently a student at **<span style="color:#1E90FF;">Itis E. Majorana</spa
 - 🇮🇹 **Italian**
 - 🇬🇧 **English**
 
-### 💻 Programming Languages I'm currently studying
+### 💻 Programming Languages
 - 🖥️ **C#**
 - 🐍 **Python**
 
 ### 📱 Reach Me
-You can reach me on Instagram. [📷](#)
+You can reach me on Instagram. [📷](https://www.instagram.com/luca.marroni._)
 
 
 <!---
