@@ -17,6 +17,10 @@ I am currently a student at **[ITIS Ettore Majorana](itismajo.it)**
 - 🖥️ **C#**
 - 🐍 **Python**
 
+### Certifications
+- B2 First Cambridge
+- Cisco IT Essential
+
 ### 📱 Reach Me
 You can reach me on Instagram. [📷](https://www.instagram.com/luca.marroni._)
 
