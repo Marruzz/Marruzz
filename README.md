@@ -16,16 +16,19 @@ I am currently a student at **[ITIS Ettore Majorana](https://www.itismajo.it)**
 ### 💻 Programming Languages
 - 🖥️ **C#**
 - 🐍 **Python**
+- HTML
+- CSS
+- Javascript
+
+### Frameworks
+- .NET MAUI
+- WPF
+- Node.js
+- Angular.js
 
 ### Certifications
-- B2 First Cambridge
+- C1 First Cambridge
 - Cisco IT Essential
 
 ### 📱 Reach Me
 You can reach me on Instagram. [📷](https://www.instagram.com/luca.marroni._)
-
-
-<!---
-Marruzz/Marruzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
